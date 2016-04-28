@@ -1,0 +1,9 @@
+Spencer Worms
+saw132@pitt.edu
+CS 1520 Monday Evening Class
+
+
+	I may change my PHP slightly to be implemented in a better way, with the download links being in an array rather than a file, and having the course descriptions be in a file rather than an array.  The below pictures are what I am planning on changing.
+
+	I will update the CSS in the website to make it more visually appealing.  This will probably include changing the colors and how the text looks.
+
