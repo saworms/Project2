@@ -1,0 +1,9 @@
+One of the main changes from the first part was the addition of the pictures.  There is now a section with pictures in it that can be cycled through and hidden.  I also added form validation and if you enter a email without a @ and . jquery will tell you that you entered a bad email.  I also cleaned up how the site looked, including spacing and colors and the form was changed to look significantly better.
+
+If there was a third part of this project, I would probably like to implement either search engine optimization or AJAX to pull useful information form somewhere.
+
+Between the two parts of the project I learned how to use and uses of javascript and jquery.  I also learned about making the website look nicer and more consistent.
+
+I liked the freedom to make a website about anything and the ability to put the skills and information I learned in this class to good use.  I also liked how this can now be shown to people to demonstrate my practical skills.
+
+The only way I think it could have been better is if we were given a more solid rubric for the site, detailing some important things to do and being able to see where any points were taken off from.

@@ -1,0 +1,3 @@
+<a href='downloads/rsa.zip' download>Miniture RSA encryption</a>
+<a href='downloads/graph.zip'>Graphs (MST, Dijkstra, Prim)</a>
+<a href='downloads/pq.zip' download>Priority Queue</a>
